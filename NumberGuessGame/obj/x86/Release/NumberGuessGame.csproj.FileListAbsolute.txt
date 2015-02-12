@@ -1,0 +1,9 @@
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\bin\Release\NumberGuessGame.exe
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\bin\Release\NumberGuessGame.pdb
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.csprojResolveAssemblyReference.cache
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.NumGuessForm.resources
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.Properties.Resources.resources
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.SetLimitsForm.resources
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.csproj.GenerateResource.Cache
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.exe
+D:\Projects\C#\BegAspDotNetClass\NumberGuessGame\NumberGuessGame\NumberGuessGame\obj\x86\Release\NumberGuessGame.pdb
